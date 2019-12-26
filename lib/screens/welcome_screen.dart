@@ -3,7 +3,7 @@ import 'package:animated_text_kit/animated_text_kit.dart';
 
 import 'login_screen.dart';
 import 'registration_screen.dart';
-import 'Components/roundedButton.dart';
+import 'package:flash_chat/Components/roundedButton.dart';
 
 class WelcomeScreen extends StatefulWidget {
   static const String id = 'welcome_screen';
